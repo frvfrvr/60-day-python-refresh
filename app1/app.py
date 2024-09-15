@@ -1,4 +1,4 @@
 # App 1
-print("Enter a todo:")
-user_text = input()
-print(user_text)
+user_prompt = "Enter a todo:"
+text = input(user_prompt)
+print(text)
