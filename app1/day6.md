@@ -5,3 +5,4 @@
 - Reading and writing data in text files using `file.open()`, `file.write()`, `file.writelines()`
 - Data types
 - zip()
+- `readlines()` and `read()`
