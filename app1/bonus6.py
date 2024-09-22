@@ -9,3 +9,4 @@ filenames = ["doc.txt",
 for content, filename in zip(contents, filenames):
     file = open(f"./files/{filename}")
     file.write(content)
+    
